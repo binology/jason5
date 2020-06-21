@@ -33888,6 +33888,7 @@
     "18430": 405,
     "18431": 419,
     "18432": 423,
+    "18433": 381,
   },
   "EAC|20|196|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18422": 1,
@@ -33899,6 +33900,7 @@
     "18430": 5,
     "18431": 5,
     "18432": 5,
+    "18433": 6,
   },
   "EAC|20|196|5|I-129|Case Was Received": {
     "18412": 244,
@@ -33918,6 +33920,7 @@
     "18430": 96,
     "18431": 84,
     "18432": 81,
+    "18433": 69,
   },
   "EAC|20|196|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18421": 1,
@@ -33930,6 +33933,7 @@
     "18430": 4,
     "18431": 4,
     "18432": 3,
+    "18433": 1,
   },
   "EAC|20|196|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18412": 313,
@@ -33949,6 +33953,7 @@
     "18430": 68,
     "18431": 62,
     "18432": 60,
+    "18433": 54,
   },
   "EAC|20|196|5|I-129|Date of Birth Was Updated": {},
   "EAC|20|196|5|I-129|Expedite Request Denied": {
@@ -33978,6 +33983,7 @@
     "18430": 5,
     "18431": 4,
     "18432": 4,
+    "18433": 4,
   },
   "EAC|20|196|5|I-129|Notice Explaining USCIS Actions Was Mailed": {
     "18415": 1,
@@ -33996,10 +34002,12 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|196|5|I-129|Notice Was Returned To USCIS Because The Post Office Could Not Deliver It": {
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|196|5|I-129|Petition/Application Was Rejected For Insufficient Funds": {
     "18412": 1,
@@ -34019,6 +34027,7 @@
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|196|5|I-129|Request For Premium Processing Services Was Received": {
     "18421": 6,
@@ -34046,6 +34055,7 @@
     "18430": 79,
     "18431": 83,
     "18432": 81,
+    "18433": 77,
   },
   "EAC|20|196|5|I-129|Response To USCIS&apos; Request For Evidence Was Received": {
     "18422": 1,
@@ -34057,6 +34067,7 @@
     "18430": 6,
     "18431": 6,
     "18432": 9,
+    "18433": 8,
   },
   "EAC|20|196|5|I-131|Case Was Updated To Show Fingerprints Were Taken": {
     "18428": 1,
@@ -34422,30 +34433,35 @@
     "18430": 4,
     "18431": 4,
     "18432": 4,
+    "18433": 4,
   },
   "EAC|20|196|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 2,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|196|5|unknown form type|Case Was Approved": {
     "18429": 128,
     "18430": 128,
     "18431": 128,
     "18432": 128,
+    "18433": 120,
   },
   "EAC|20|196|5|unknown form type|Case Was Received": {
     "18429": 234,
     "18430": 234,
     "18431": 234,
     "18432": 234,
+    "18433": 208,
   },
   "EAC|20|196|5|unknown form type|Case Was Received At Another USCIS Office": {
     "18429": 4,
     "18430": 4,
     "18431": 4,
     "18432": 4,
+    "18433": 4,
   },
   "EAC|20|196|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18412": 23,
@@ -34465,47 +34481,55 @@
     "18430": 23,
     "18431": 23,
     "18432": 23,
+    "18433": 23,
   },
   "EAC|20|196|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 5,
     "18430": 5,
     "18431": 5,
     "18432": 5,
+    "18433": 5,
   },
   "EAC|20|196|5|unknown form type|Case Was Transferred And A New Office Has Jurisdiction": {
     "18429": 10,
     "18430": 10,
     "18431": 10,
     "18432": 10,
+    "18433": 7,
   },
   "EAC|20|196|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 7,
     "18430": 7,
     "18431": 7,
     "18432": 7,
+    "18433": 7,
   },
   "EAC|20|196|5|unknown form type|Correspondence Was Received And USCIS Is Reviewing It": {
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|196|5|unknown form type|Date of Birth Was Updated": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|196|5|unknown form type|Fees Were Waived": {
     "18429": 198,
     "18430": 198,
     "18431": 198,
     "18432": 197,
+    "18433": 183,
   },
   "EAC|20|196|5|unknown form type|Name Was Updated": {
     "18429": 5,
     "18430": 5,
     "18431": 5,
     "18432": 5,
+    "18433": 5,
   },
   "EAC|20|196|5|unknown form type|New Card Is Being Produced": {
     "18425": 1,
@@ -34515,6 +34539,7 @@
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|196|5|unknown form type|Request Was Processed": {
     "18412": 37,
@@ -34534,6 +34559,7 @@
     "18430": 37,
     "18431": 37,
     "18432": 37,
+    "18433": 35,
   },
   "EAC|20|196|5|unknown form type|Request Was Rejected": {
     "18412": 1,
@@ -34553,12 +34579,14 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|196|5|unknown form type|Request for Additional Evidence Was Sent": {
     "18429": 21,
     "18430": 20,
     "18431": 20,
     "18432": 21,
+    "18433": 18,
   },
   "EAC|20|197|5|I-129|Case Transferred To Another Office": {
     "18429": 1,
@@ -34582,6 +34610,7 @@
     "18430": 445,
     "18431": 482,
     "18432": 501,
+    "18433": 451,
   },
   "EAC|20|197|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18422": 1,
@@ -34593,6 +34622,7 @@
     "18430": 9,
     "18431": 10,
     "18432": 10,
+    "18433": 8,
   },
   "EAC|20|197|5|I-129|Case Was Received": {
     "18412": 375,
@@ -34612,6 +34642,7 @@
     "18430": 120,
     "18431": 96,
     "18432": 86,
+    "18433": 80,
   },
   "EAC|20|197|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18421": 1,
@@ -34624,6 +34655,7 @@
     "18430": 4,
     "18431": 6,
     "18432": 6,
+    "18433": 7,
   },
   "EAC|20|197|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18412": 384,
@@ -34643,6 +34675,7 @@
     "18430": 94,
     "18431": 80,
     "18432": 63,
+    "18433": 53,
   },
   "EAC|20|197|5|I-129|Date of Birth Was Updated": {
     "18415": 1,
@@ -34666,6 +34699,7 @@
     "18430": 1,
     "18431": 2,
     "18432": 3,
+    "18433": 2,
   },
   "EAC|20|197|5|I-129|Notice Explaining USCIS Actions Was Mailed": {
     "18425": 1,
@@ -34674,11 +34708,13 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|197|5|I-129|Notice Was Returned To USCIS Because The Post Office Could Not Deliver It": {
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|197|5|I-129|Request For Premium Processing Services Was Received": {
     "18421": 3,
@@ -34707,6 +34743,7 @@
     "18430": 96,
     "18431": 96,
     "18432": 100,
+    "18433": 89,
   },
   "EAC|20|197|5|I-129|Response To USCIS&apos; Request For Evidence Was Received": {
     "18425": 1,
@@ -34715,6 +34752,7 @@
     "18430": 2,
     "18431": 2,
     "18432": 5,
+    "18433": 5,
   },
   "EAC|20|197|5|I-131|Case Was Approved": {
     "18428": 1,
@@ -35196,6 +35234,7 @@
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|197|5|unknown form type|Card Was Picked Up By The United States Postal Service": {
     "18424": 2,
@@ -35206,24 +35245,28 @@
     "18430": 54,
     "18431": 54,
     "18432": 54,
+    "18433": 49,
   },
   "EAC|20|197|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 16,
     "18430": 16,
     "18431": 16,
     "18432": 16,
+    "18433": 15,
   },
   "EAC|20|197|5|unknown form type|Case Rejected For Incorrect Fee And Form Not Signed": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|197|5|unknown form type|Case Was Approved": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|197|5|unknown form type|Case Was Received": {
     "18412": 6,
@@ -35243,6 +35286,7 @@
     "18430": 496,
     "18431": 496,
     "18432": 496,
+    "18433": 446,
   },
   "EAC|20|197|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {},
   "EAC|20|197|5|unknown form type|Case Was Rejected Because I Did Not Sign My Form": {
@@ -35250,36 +35294,42 @@
     "18430": 7,
     "18431": 7,
     "18432": 7,
+    "18433": 6,
   },
   "EAC|20|197|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 98,
     "18430": 98,
     "18431": 98,
     "18432": 98,
+    "18433": 87,
   },
   "EAC|20|197|5|unknown form type|Case Was Transferred And A New Office Has Jurisdiction": {
     "18429": 18,
     "18430": 18,
     "18431": 18,
     "18432": 18,
+    "18433": 13,
   },
   "EAC|20|197|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 14,
     "18430": 14,
     "18431": 14,
     "18432": 14,
+    "18433": 13,
   },
   "EAC|20|197|5|unknown form type|Date of Birth Was Updated": {
     "18429": 2,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|197|5|unknown form type|Expedite Request Denied": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|197|5|unknown form type|Fees Were Waived": {
     "18412": 17,
@@ -35299,12 +35349,14 @@
     "18430": 277,
     "18431": 277,
     "18432": 275,
+    "18433": 244,
   },
   "EAC|20|197|5|unknown form type|Name Was Updated": {
     "18429": 8,
     "18430": 8,
     "18431": 8,
     "18432": 8,
+    "18433": 7,
   },
   "EAC|20|197|5|unknown form type|New Card Is Being Produced": {
     "18418": 1,
@@ -35330,12 +35382,14 @@
     "18430": 68,
     "18431": 68,
     "18432": 68,
+    "18433": 59,
   },
   "EAC|20|197|5|unknown form type|Request for Additional Evidence Was Sent": {
     "18429": 4,
     "18430": 4,
     "18431": 4,
     "18432": 4,
+    "18433": 3,
   },
   "EAC|20|198|5|I-129|Case Transferred To Another Office": {},
   "EAC|20|198|5|I-129|Case Was Approved": {
@@ -35356,6 +35410,7 @@
     "18430": 336,
     "18431": 357,
     "18432": 369,
+    "18433": 334,
   },
   "EAC|20|198|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18422": 3,
@@ -35367,6 +35422,7 @@
     "18430": 10,
     "18431": 10,
     "18432": 10,
+    "18433": 9,
   },
   "EAC|20|198|5|I-129|Case Was Received": {
     "18412": 473,
@@ -35386,6 +35442,7 @@
     "18430": 157,
     "18431": 145,
     "18432": 136,
+    "18433": 122,
   },
   "EAC|20|198|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18421": 4,
@@ -35398,6 +35455,7 @@
     "18430": 5,
     "18431": 3,
     "18432": 4,
+    "18433": 5,
   },
   "EAC|20|198|5|I-129|Case Was Rejected Because I Did Not Sign My Form": {
     "18412": 2,
@@ -35417,6 +35475,7 @@
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|198|5|I-129|Case Was Reopened": {
     "18424": 1,
@@ -35443,6 +35502,7 @@
     "18430": 58,
     "18431": 48,
     "18432": 42,
+    "18433": 40,
   },
   "EAC|20|198|5|I-129|Correspondence Was Received And USCIS Is Reviewing It": {
     "18424": 1,
@@ -35452,6 +35512,7 @@
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|198|5|I-129|Date of Birth Was Updated": {
     "18421": 1,
@@ -35463,6 +35524,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|198|5|I-129|Name Was Updated": {
     "18412": 10,
@@ -35482,6 +35544,7 @@
     "18430": 4,
     "18431": 4,
     "18432": 4,
+    "18433": 3,
   },
   "EAC|20|198|5|I-129|Notice Was Returned To USCIS Because The Post Office Could Not Deliver It": {
     "18423": 1,
@@ -35492,6 +35555,7 @@
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|198|5|I-129|Request For Premium Processing Services Was Received": {
     "18421": 5,
@@ -35519,6 +35583,7 @@
     "18430": 127,
     "18431": 132,
     "18432": 133,
+    "18433": 120,
   },
   "EAC|20|198|5|I-129|Request for Additional Information Received": {
     "18412": 1,
@@ -35538,6 +35603,7 @@
     "18429": 1,
     "18430": 1,
     "18431": 1,
+    "18433": 1,
   },
   "EAC|20|198|5|I-131|Case Was Received": {
     "18412": 2,
@@ -35933,18 +35999,21 @@
     "18430": 42,
     "18431": 42,
     "18432": 42,
+    "18433": 40,
   },
   "EAC|20|198|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 5,
     "18430": 5,
     "18431": 5,
     "18432": 5,
+    "18433": 4,
   },
   "EAC|20|198|5|unknown form type|Case Was Approved": {
     "18429": 2,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 6,
   },
   "EAC|20|198|5|unknown form type|Case Was Received": {
     "18412": 35,
@@ -35964,6 +36033,7 @@
     "18430": 424,
     "18431": 423,
     "18432": 419,
+    "18433": 375,
   },
   "EAC|20|198|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18412": 18,
@@ -35983,18 +36053,21 @@
     "18430": 18,
     "18431": 18,
     "18432": 18,
+    "18433": 16,
   },
   "EAC|20|198|5|unknown form type|Case Was Rejected Because I Did Not Sign My Form": {
     "18429": 3,
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|198|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 65,
     "18430": 65,
     "18431": 65,
     "18432": 65,
+    "18433": 57,
   },
   "EAC|20|198|5|unknown form type|Case Was Sent To The Administrative Appeals Office for Review": {
     "18431": 1,
@@ -36015,24 +36088,28 @@
     "18430": 8,
     "18431": 8,
     "18432": 9,
+    "18433": 7,
   },
   "EAC|20|198|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 17,
     "18430": 17,
     "18431": 17,
     "18432": 17,
+    "18433": 15,
   },
   "EAC|20|198|5|unknown form type|Correspondence Was Received And USCIS Is Reviewing It": {
     "18429": 1,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|198|5|unknown form type|Date of Birth Was Updated": {
     "18429": 2,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|198|5|unknown form type|Fees Were Waived": {
     "18412": 11,
@@ -36052,12 +36129,14 @@
     "18430": 216,
     "18431": 216,
     "18432": 215,
+    "18433": 196,
   },
   "EAC|20|198|5|unknown form type|Name Was Updated": {
     "18429": 7,
     "18430": 7,
     "18431": 7,
     "18432": 8,
+    "18433": 5,
   },
   "EAC|20|198|5|unknown form type|New Card Is Being Produced": {
     "18424": 1,
@@ -36083,12 +36162,14 @@
     "18430": 51,
     "18431": 51,
     "18432": 51,
+    "18433": 45,
   },
   "EAC|20|198|5|unknown form type|Request for Additional Evidence Was Sent": {
     "18429": 5,
     "18430": 5,
     "18431": 5,
     "18432": 5,
+    "18433": 5,
   },
   "EAC|20|199|5|I-751|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18412": 3,
@@ -36140,18 +36221,21 @@
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|199|5|unknown form type|Case Was Received": {
     "18429": 37,
     "18430": 37,
     "18431": 37,
     "18432": 37,
+    "18433": 32,
   },
   "EAC|20|199|5|unknown form type|Name Was Updated": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|200|5|I-539|Case Rejected Because I Sent An Incorrect Fee": {
     "18415": 9,
@@ -36270,42 +36354,49 @@
     "18430": 9,
     "18431": 9,
     "18432": 9,
+    "18433": 9,
   },
   "EAC|20|200|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 5,
     "18430": 5,
     "18431": 5,
     "18432": 5,
+    "18433": 5,
   },
   "EAC|20|200|5|unknown form type|Case Was Received": {
     "18429": 123,
     "18430": 123,
     "18431": 123,
     "18432": 123,
+    "18433": 111,
   },
   "EAC|20|200|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 4,
     "18430": 4,
     "18431": 4,
     "18432": 4,
+    "18433": 4,
   },
   "EAC|20|200|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|200|5|unknown form type|Expedite Request Denied": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|200|5|unknown form type|Name Was Updated": {
     "18429": 4,
     "18430": 4,
     "18431": 4,
     "18432": 4,
+    "18433": 3,
   },
   "EAC|20|201|5|I-129|Case Was Approved": {
     "18415": 78,
@@ -36324,6 +36415,7 @@
     "18430": 307,
     "18431": 340,
     "18432": 353,
+    "18433": 323,
   },
   "EAC|20|201|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18422": 3,
@@ -36335,6 +36427,7 @@
     "18430": 13,
     "18431": 13,
     "18432": 13,
+    "18433": 11,
   },
   "EAC|20|201|5|I-129|Case Was Received": {
     "18415": 575,
@@ -36353,6 +36446,7 @@
     "18430": 255,
     "18431": 220,
     "18432": 204,
+    "18433": 182,
   },
   "EAC|20|201|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18421": 1,
@@ -36365,6 +36459,7 @@
     "18430": 10,
     "18431": 7,
     "18432": 8,
+    "18433": 9,
   },
   "EAC|20|201|5|I-129|Name Was Updated": {
     "18415": 14,
@@ -36383,6 +36478,7 @@
     "18430": 7,
     "18431": 5,
     "18432": 5,
+    "18433": 5,
   },
   "EAC|20|201|5|I-129|Notice Explaining USCIS Actions Was Mailed": {
     "18425": 1,
@@ -36391,12 +36487,14 @@
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 2,
   },
   "EAC|20|201|5|I-129|Notice Was Returned To USCIS Because The Post Office Could Not Deliver It": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|201|5|I-129|Petition/Application Was Rejected For Insufficient Funds": {
     "18424": 1,
@@ -36432,6 +36530,7 @@
     "18430": 75,
     "18431": 83,
     "18432": 84,
+    "18433": 73,
   },
   "EAC|20|201|5|I-129|Response To USCIS&apos; Request For Evidence Was Received": {
     "18424": 2,
@@ -36441,6 +36540,7 @@
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 3,
   },
   "EAC|20|201|5|I-129|Withdrawal Acknowledgement Notice Was Sent": {
     "18432": 1,
@@ -36818,6 +36918,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|201|5|unknown form type|Card Was Picked Up By The United States Postal Service": {
     "18415": 1,
@@ -36828,18 +36929,21 @@
     "18430": 30,
     "18431": 30,
     "18432": 30,
+    "18433": 27,
   },
   "EAC|20|201|5|unknown form type|Case Rejected For Incorrect Fee And Form Not Signed": {
     "18429": 3,
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 2,
   },
   "EAC|20|201|5|unknown form type|Case Was Approved": {
     "18429": 2,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|201|5|unknown form type|Case Was Received": {
     "18415": 16,
@@ -36858,18 +36962,21 @@
     "18430": 505,
     "18431": 505,
     "18432": 505,
+    "18433": 448,
   },
   "EAC|20|201|5|unknown form type|Case Was Rejected Because I Did Not Sign My Form": {
     "18429": 4,
     "18430": 4,
     "18431": 4,
     "18432": 4,
+    "18433": 3,
   },
   "EAC|20|201|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 45,
     "18430": 45,
     "18431": 45,
     "18432": 45,
+    "18433": 43,
   },
   "EAC|20|201|5|unknown form type|Case Was Sent To The Administrative Appeals Office for Review": {
     "18430": 1,
@@ -36880,12 +36987,14 @@
     "18430": 9,
     "18431": 10,
     "18432": 10,
+    "18433": 10,
   },
   "EAC|20|201|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 24,
     "18430": 24,
     "18431": 24,
     "18432": 24,
+    "18433": 22,
   },
   "EAC|20|201|5|unknown form type|Correspondence Was Received And USCIS Is Reviewing It": {
     "18430": 1,
@@ -36897,12 +37006,14 @@
     "18430": 225,
     "18431": 225,
     "18432": 216,
+    "18433": 197,
   },
   "EAC|20|201|5|unknown form type|Name Was Updated": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|201|5|unknown form type|Petition/Application Was Rejected For Insufficient Funds": {
     "18416": 1,
@@ -36920,6 +37031,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|201|5|unknown form type|Request Was Processed": {
     "18415": 45,
@@ -36938,12 +37050,14 @@
     "18430": 45,
     "18431": 45,
     "18432": 45,
+    "18433": 43,
   },
   "EAC|20|201|5|unknown form type|Request for Additional Evidence Was Sent": {
     "18429": 5,
     "18430": 9,
     "18431": 9,
     "18432": 18,
+    "18433": 18,
   },
   "EAC|20|202|5|I-102|Case Was Received": {
     "18415": 1,
@@ -36980,6 +37094,7 @@
     "18430": 304,
     "18431": 350,
     "18432": 370,
+    "18433": 329,
   },
   "EAC|20|202|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18422": 4,
@@ -36991,6 +37106,7 @@
     "18430": 10,
     "18431": 12,
     "18432": 11,
+    "18433": 7,
   },
   "EAC|20|202|5|I-129|Case Was Received": {
     "18415": 653,
@@ -37009,6 +37125,7 @@
     "18430": 368,
     "18431": 320,
     "18432": 303,
+    "18433": 266,
   },
   "EAC|20|202|5|I-129|Case Was Received At Another USCIS Office": {
     "18415": 21,
@@ -37027,6 +37144,7 @@
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|202|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18421": 1,
@@ -37039,6 +37157,7 @@
     "18430": 16,
     "18431": 15,
     "18432": 16,
+    "18433": 16,
   },
   "EAC|20|202|5|I-129|Case Was Rejected Because I Did Not Sign My Form": {
     "18415": 1,
@@ -37057,6 +37176,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|202|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18415": 114,
@@ -37075,6 +37195,7 @@
     "18430": 18,
     "18431": 18,
     "18432": 15,
+    "18433": 14,
   },
   "EAC|20|202|5|I-129|Correspondence Was Received And USCIS Is Reviewing It": {
     "18417": 1,
@@ -37091,6 +37212,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|202|5|I-129|Date of Birth Was Updated": {
     "18416": 1,
@@ -37113,6 +37235,7 @@
     "18430": 11,
     "18431": 8,
     "18432": 7,
+    "18433": 7,
   },
   "EAC|20|202|5|I-129|Petition/Application Was Rejected For Insufficient Funds": {
     "18416": 1,
@@ -37130,6 +37253,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|202|5|I-129|Request For Premium Processing Services Was Received": {
     "18421": 4,
@@ -37159,6 +37283,7 @@
     "18430": 111,
     "18431": 117,
     "18432": 117,
+    "18433": 106,
   },
   "EAC|20|202|5|I-129|Response To USCIS&apos; Request For Evidence Was Received": {
     "18424": 2,
@@ -37168,6 +37293,7 @@
     "18430": 3,
     "18431": 2,
     "18432": 4,
+    "18433": 5,
   },
   "EAC|20|202|5|I-129|Withdrawal Acknowledgement Notice Was Sent": {
     "18423": 1,
@@ -37178,6 +37304,7 @@
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|202|5|I-131|Date of Birth Was Updated": {
     "18415": 1,
@@ -37559,18 +37686,21 @@
     "18430": 17,
     "18431": 17,
     "18432": 17,
+    "18433": 17,
   },
   "EAC|20|202|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 15,
     "18430": 15,
     "18431": 15,
     "18432": 15,
+    "18433": 14,
   },
   "EAC|20|202|5|unknown form type|Case Was Received": {
     "18429": 467,
     "18430": 467,
     "18431": 467,
     "18432": 467,
+    "18433": 434,
   },
   "EAC|20|202|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18415": 24,
@@ -37589,18 +37719,21 @@
     "18430": 24,
     "18431": 24,
     "18432": 24,
+    "18433": 20,
   },
   "EAC|20|202|5|unknown form type|Case Was Rejected Because I Did Not Sign My Form": {
     "18429": 7,
     "18430": 7,
     "18431": 7,
     "18432": 7,
+    "18433": 7,
   },
   "EAC|20|202|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 82,
     "18430": 82,
     "18431": 82,
     "18432": 82,
+    "18433": 72,
   },
   "EAC|20|202|5|unknown form type|Case Was Sent To The Administrative Appeals Office for Review": {
     "18431": 1,
@@ -37610,24 +37743,28 @@
     "18430": 11,
     "18431": 12,
     "18432": 12,
+    "18433": 8,
   },
   "EAC|20|202|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 16,
     "18430": 16,
     "18431": 16,
     "18432": 16,
+    "18433": 13,
   },
   "EAC|20|202|5|unknown form type|Correspondence Was Received And USCIS Is Reviewing It": {
     "18429": 1,
     "18430": 2,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|202|5|unknown form type|Date of Birth Was Updated": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|202|5|unknown form type|Fees Were Waived": {
     "18415": 2,
@@ -37646,12 +37783,14 @@
     "18430": 308,
     "18431": 308,
     "18432": 307,
+    "18433": 275,
   },
   "EAC|20|202|5|unknown form type|Name Was Updated": {
     "18429": 6,
     "18430": 6,
     "18431": 6,
     "18432": 6,
+    "18433": 5,
   },
   "EAC|20|202|5|unknown form type|Request Was Processed": {
     "18415": 63,
@@ -37670,6 +37809,7 @@
     "18430": 63,
     "18431": 63,
     "18432": 63,
+    "18433": 54,
   },
   "EAC|20|202|5|unknown form type|Request Was Rejected": {
     "18415": 2,
@@ -37688,12 +37828,14 @@
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|202|5|unknown form type|Request for Additional Evidence Was Sent": {
     "18429": 4,
     "18430": 4,
     "18431": 4,
     "18432": 5,
+    "18433": 3,
   },
   "EAC|20|203|5|I-129|Case Transferred To Another Office": {
     "18429": 1,
@@ -37716,6 +37858,7 @@
     "18430": 311,
     "18431": 351,
     "18432": 377,
+    "18433": 338,
   },
   "EAC|20|203|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18425": 1,
@@ -37724,6 +37867,7 @@
     "18430": 4,
     "18431": 6,
     "18432": 7,
+    "18433": 8,
   },
   "EAC|20|203|5|I-129|Case Was Received": {
     "18415": 423,
@@ -37742,6 +37886,7 @@
     "18430": 323,
     "18431": 314,
     "18432": 301,
+    "18433": 254,
   },
   "EAC|20|203|5|I-129|Case Was Received At Another USCIS Office": {
     "18415": 14,
@@ -37765,6 +37910,7 @@
     "18430": 51,
     "18431": 45,
     "18432": 42,
+    "18433": 45,
   },
   "EAC|20|203|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18415": 453,
@@ -37783,6 +37929,7 @@
     "18430": 170,
     "18431": 145,
     "18432": 128,
+    "18433": 116,
   },
   "EAC|20|203|5|I-129|Date of Birth Was Updated": {
     "18415": 1,
@@ -37808,6 +37955,7 @@
     "18430": 3,
     "18431": 3,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|203|5|I-129|Request For Premium Processing Services Was Received": {
     "18421": 2,
@@ -37835,12 +37983,17 @@
     "18430": 34,
     "18431": 35,
     "18432": 41,
+    "18433": 38,
+  },
+  "EAC|20|203|5|I-129|Response To USCIS&apos; Request For Evidence Was Received": {
+    "18433": 1,
   },
   "EAC|20|203|5|I-129|Withdrawal Acknowledgement Notice Was Sent": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|203|5|I-131|Case Was Approved": {
     "18428": 3,
@@ -38351,18 +38504,21 @@
     "18430": 45,
     "18431": 45,
     "18432": 45,
+    "18433": 41,
   },
   "EAC|20|203|5|unknown form type|Case Was Approved": {
     "18429": 107,
     "18430": 108,
     "18431": 108,
     "18432": 108,
+    "18433": 97,
   },
   "EAC|20|203|5|unknown form type|Case Was Denied": {
     "18429": 2,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|203|5|unknown form type|Case Was Received": {
     "18415": 25,
@@ -38381,12 +38537,14 @@
     "18430": 575,
     "18431": 569,
     "18432": 568,
+    "18433": 523,
   },
   "EAC|20|203|5|unknown form type|Case Was Received At Another USCIS Office": {
     "18429": 8,
     "18430": 7,
     "18431": 7,
     "18432": 7,
+    "18433": 6,
   },
   "EAC|20|203|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18415": 6,
@@ -38405,18 +38563,21 @@
     "18430": 6,
     "18431": 6,
     "18432": 6,
+    "18433": 6,
   },
   "EAC|20|203|5|unknown form type|Case Was Rejected Because I Did Not Sign My Form": {
     "18429": 3,
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|203|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 44,
     "18430": 44,
     "18431": 44,
     "18432": 44,
+    "18433": 42,
   },
   "EAC|20|203|5|unknown form type|Case Was Sent To The Administrative Appeals Office for Review": {
     "18424": 1,
@@ -38430,24 +38591,28 @@
     "18430": 25,
     "18431": 26,
     "18432": 29,
+    "18433": 26,
   },
   "EAC|20|203|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 7,
     "18430": 7,
     "18431": 7,
     "18432": 7,
+    "18433": 7,
   },
   "EAC|20|203|5|unknown form type|Date of Birth Was Updated": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|203|5|unknown form type|Expedite Request Denied": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|203|5|unknown form type|Fees Were Waived": {
     "18415": 4,
@@ -38466,24 +38631,28 @@
     "18430": 364,
     "18431": 364,
     "18432": 359,
+    "18433": 328,
   },
   "EAC|20|203|5|unknown form type|Name Was Updated": {
     "18429": 9,
     "18430": 9,
     "18431": 9,
     "18432": 9,
+    "18433": 8,
   },
   "EAC|20|203|5|unknown form type|Notice Was Returned To USCIS Because The Post Office Could Not Deliver It": {
     "18429": 2,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|203|5|unknown form type|Petition/Application Was Rejected For Insufficient Funds": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|203|5|unknown form type|Request Was Processed": {
     "18415": 51,
@@ -38502,6 +38671,7 @@
     "18430": 51,
     "18431": 51,
     "18432": 51,
+    "18433": 43,
   },
   "EAC|20|203|5|unknown form type|Request Was Rejected": {
     "18415": 1,
@@ -38520,12 +38690,14 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|203|5|unknown form type|Request for Additional Evidence Was Sent": {
     "18429": 35,
     "18430": 35,
     "18431": 40,
     "18432": 45,
+    "18433": 41,
   },
   "EAC|20|204|5|I-129|Case Transferred To Another Office": {
     "18429": 6,
@@ -39237,6 +39409,7 @@
     "18430": 115,
     "18431": 168,
     "18432": 191,
+    "18433": 177,
   },
   "EAC|20|205|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18415": 12,
@@ -39255,6 +39428,7 @@
     "18430": 17,
     "18431": 17,
     "18432": 17,
+    "18433": 19,
   },
   "EAC|20|205|5|I-129|Case Was Received": {
     "18415": 453,
@@ -39273,6 +39447,7 @@
     "18430": 362,
     "18431": 350,
     "18432": 342,
+    "18433": 307,
   },
   "EAC|20|205|5|I-129|Case Was Received At Another USCIS Office": {
     "18415": 7,
@@ -39291,6 +39466,7 @@
     "18430": 7,
     "18431": 7,
     "18432": 7,
+    "18433": 6,
   },
   "EAC|20|205|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18421": 2,
@@ -39303,6 +39479,7 @@
     "18430": 30,
     "18431": 31,
     "18432": 29,
+    "18433": 26,
   },
   "EAC|20|205|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18415": 283,
@@ -39321,15 +39498,18 @@
     "18430": 223,
     "18431": 180,
     "18432": 164,
+    "18433": 146,
   },
   "EAC|20|205|5|I-129|Date of Birth Was Updated": {
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|205|5|I-129|Expedite Request Denied": {
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|205|5|I-129|Name Was Updated": {
     "18415": 5,
@@ -39348,9 +39528,11 @@
     "18430": 9,
     "18431": 8,
     "18432": 7,
+    "18433": 6,
   },
   "EAC|20|205|5|I-129|Notice Was Returned To USCIS Because The Post Office Could Not Deliver It": {
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|205|5|I-129|Request For Premium Processing Services Was Received": {
     "18421": 3,
@@ -39373,6 +39555,7 @@
     "18430": 15,
     "18431": 18,
     "18432": 22,
+    "18433": 17,
   },
   "EAC|20|205|5|I-131|Case Was Approved": {
     "18428": 1,
@@ -39749,24 +39932,28 @@
     "18430": 32,
     "18431": 32,
     "18432": 32,
+    "18433": 29,
   },
   "EAC|20|205|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 7,
     "18430": 7,
     "18431": 7,
     "18432": 7,
+    "18433": 6,
   },
   "EAC|20|205|5|unknown form type|Case Rejected For Incorrect Fee And Form Not Signed": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|205|5|unknown form type|Case Was Approved": {
     "18429": 1,
     "18430": 1,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|205|5|unknown form type|Case Was Received": {
     "18415": 3,
@@ -39785,6 +39972,7 @@
     "18430": 511,
     "18431": 511,
     "18432": 511,
+    "18433": 457,
   },
   "EAC|20|205|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18415": 1,
@@ -39803,12 +39991,14 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|205|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 31,
     "18430": 31,
     "18431": 31,
     "18432": 31,
+    "18433": 28,
   },
   "EAC|20|205|5|unknown form type|Case Was Transferred And A New Office Has Jurisdiction": {
     "18415": 1,
@@ -39827,18 +40017,21 @@
     "18430": 29,
     "18431": 29,
     "18432": 29,
+    "18433": 27,
   },
   "EAC|20|205|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 12,
     "18430": 11,
     "18431": 11,
     "18432": 11,
+    "18433": 10,
   },
   "EAC|20|205|5|unknown form type|Date of Birth Was Updated": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|205|5|unknown form type|Fees Were Waived": {
     "18415": 39,
@@ -39857,12 +40050,14 @@
     "18430": 223,
     "18431": 222,
     "18432": 222,
+    "18433": 197,
   },
   "EAC|20|205|5|unknown form type|Name Was Updated": {
     "18429": 5,
     "18430": 5,
     "18431": 5,
     "18432": 5,
+    "18433": 5,
   },
   "EAC|20|205|5|unknown form type|Request Was Processed": {
     "18415": 10,
@@ -39881,12 +40076,14 @@
     "18430": 10,
     "18431": 10,
     "18432": 10,
+    "18433": 10,
   },
   "EAC|20|205|5|unknown form type|Request for Additional Evidence Was Sent": {
     "18429": 18,
     "18430": 19,
     "18431": 20,
     "18432": 20,
+    "18433": 18,
   },
   "EAC|20|206|5|I-539|Case Was Received": {
     "18415": 3,
@@ -39921,12 +40118,14 @@
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|206|5|unknown form type|Case Was Received": {
     "18429": 3,
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 1,
   },
   "EAC|20|207|5|I-129|Case Transferred To Another Office": {
     "18429": 4,
@@ -39949,6 +40148,7 @@
     "18430": 63,
     "18431": 70,
     "18432": 83,
+    "18433": 73,
   },
   "EAC|20|207|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18425": 1,
@@ -39957,6 +40157,7 @@
     "18430": 3,
     "18431": 4,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|207|5|I-129|Case Was Received": {
     "18415": 887,
@@ -39975,6 +40176,7 @@
     "18430": 763,
     "18431": 754,
     "18432": 736,
+    "18433": 651,
   },
   "EAC|20|207|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18422": 12,
@@ -39986,6 +40188,7 @@
     "18430": 24,
     "18431": 25,
     "18432": 25,
+    "18433": 33,
   },
   "EAC|20|207|5|I-129|Case Was Rejected Because I Did Not Sign My Form": {
     "18415": 1,
@@ -40004,6 +40207,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|207|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18415": 6,
@@ -40022,6 +40226,7 @@
     "18430": 6,
     "18431": 10,
     "18432": 10,
+    "18433": 9,
   },
   "EAC|20|207|5|I-129|Date of Birth Was Updated": {
     "18415": 1,
@@ -40040,6 +40245,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|207|5|I-129|Expedite Request Denied": {
     "18424": 1,
@@ -40049,6 +40255,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|207|5|I-129|Name Was Updated": {
     "18415": 17,
@@ -40067,6 +40274,7 @@
     "18430": 19,
     "18431": 18,
     "18432": 18,
+    "18433": 13,
   },
   "EAC|20|207|5|I-129|Petition/Application Was Rejected For Insufficient Funds": {
     "18416": 2,
@@ -40084,6 +40292,7 @@
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|207|5|I-129|Request For Premium Processing Services Was Received": {
     "18421": 3,
@@ -40112,6 +40321,7 @@
     "18430": 22,
     "18431": 26,
     "18432": 27,
+    "18433": 23,
   },
   "EAC|20|207|5|I-131|Case Was Received": {
     "18415": 1,
@@ -40470,29 +40680,35 @@
     "18430": 25,
     "18431": 25,
     "18432": 25,
+    "18433": 23,
   },
   "EAC|20|207|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 2,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|207|5|unknown form type|Case Rejected For Incorrect Fee And Form Not Signed": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|207|5|unknown form type|Case Transferred To Another Office": {
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|207|5|unknown form type|Case Was Approved": {
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|207|5|unknown form type|Case Was Denied": {
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|207|5|unknown form type|Case Was Received": {
     "18415": 21,
@@ -40511,18 +40727,21 @@
     "18430": 528,
     "18431": 527,
     "18432": 526,
+    "18433": 483,
   },
   "EAC|20|207|5|unknown form type|Case Was Received At Another USCIS Office": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|207|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 42,
     "18430": 42,
     "18431": 42,
     "18432": 42,
+    "18433": 39,
   },
   "EAC|20|207|5|unknown form type|Case Was Sent To The Administrative Appeals Office for Review": {
     "18423": 1,
@@ -40538,24 +40757,28 @@
     "18430": 9,
     "18431": 12,
     "18432": 12,
+    "18433": 10,
   },
   "EAC|20|207|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 23,
     "18430": 21,
     "18431": 21,
     "18432": 21,
+    "18433": 20,
   },
   "EAC|20|207|5|unknown form type|Fees Were Waived": {
     "18429": 328,
     "18430": 325,
     "18431": 319,
     "18432": 312,
+    "18433": 280,
   },
   "EAC|20|207|5|unknown form type|Name Was Updated": {
     "18429": 9,
     "18430": 10,
     "18431": 10,
     "18432": 10,
+    "18433": 10,
   },
   "EAC|20|207|5|unknown form type|Petition/Application Was Rejected For Insufficient Funds": {
     "18416": 2,
@@ -40573,6 +40796,7 @@
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|207|5|unknown form type|Request Was Processed": {
     "18415": 73,
@@ -40591,6 +40815,7 @@
     "18430": 73,
     "18431": 73,
     "18432": 73,
+    "18433": 64,
   },
   "EAC|20|207|5|unknown form type|Request Was Rejected": {
     "18415": 2,
@@ -40609,12 +40834,14 @@
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|207|5|unknown form type|Request for Additional Evidence Was Sent": {
     "18429": 12,
     "18430": 15,
     "18431": 22,
     "18432": 29,
+    "18433": 22,
   },
   "EAC|20|208|5|I-129|Case Transferred To Another Office": {
     "18422": 2,
@@ -40638,6 +40865,7 @@
     "18430": 55,
     "18431": 88,
     "18432": 104,
+    "18433": 94,
   },
   "EAC|20|208|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18424": 1,
@@ -40647,6 +40875,7 @@
     "18430": 7,
     "18431": 7,
     "18432": 9,
+    "18433": 8,
   },
   "EAC|20|208|5|I-129|Case Was Received": {
     "18415": 788,
@@ -40665,6 +40894,7 @@
     "18430": 666,
     "18431": 652,
     "18432": 638,
+    "18433": 566,
   },
   "EAC|20|208|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18421": 2,
@@ -40677,6 +40907,7 @@
     "18430": 47,
     "18431": 42,
     "18432": 43,
+    "18433": 49,
   },
   "EAC|20|208|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18415": 163,
@@ -40695,6 +40926,7 @@
     "18430": 152,
     "18431": 138,
     "18432": 129,
+    "18433": 113,
   },
   "EAC|20|208|5|I-129|Date of Birth Was Updated": {
     "18424": 1,
@@ -40704,6 +40936,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|208|5|I-129|Name Was Updated": {
     "18415": 4,
@@ -40722,6 +40955,7 @@
     "18430": 9,
     "18431": 9,
     "18432": 9,
+    "18433": 7,
   },
   "EAC|20|208|5|I-129|Petition/Application Was Rejected For Insufficient Funds": {
     "18424": 1,
@@ -40754,6 +40988,7 @@
     "18430": 11,
     "18431": 16,
     "18432": 18,
+    "18433": 18,
   },
   "EAC|20|208|5|I-129|Request for Additional Information Received": {
     "18417": 1,
@@ -40770,6 +41005,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|208|5|I-131|Case Was Received": {
     "18415": 1,
@@ -41214,39 +41450,46 @@
     "18430": 22,
     "18431": 22,
     "18432": 22,
+    "18433": 21,
   },
   "EAC|20|208|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 7,
     "18430": 7,
     "18431": 7,
     "18432": 7,
+    "18433": 7,
   },
   "EAC|20|208|5|unknown form type|Case Transferred To Another Office": {
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|208|5|unknown form type|Case Was Approved": {
     "18429": 157,
     "18430": 160,
     "18431": 160,
     "18432": 160,
+    "18433": 149,
   },
   "EAC|20|208|5|unknown form type|Case Was Denied": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|208|5|unknown form type|Case Was Received": {
     "18429": 562,
     "18430": 559,
     "18431": 558,
     "18432": 556,
+    "18433": 503,
   },
   "EAC|20|208|5|unknown form type|Case Was Received At Another USCIS Office": {
     "18429": 5,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|208|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18415": 25,
@@ -41265,41 +41508,48 @@
     "18430": 25,
     "18431": 25,
     "18432": 25,
+    "18433": 21,
   },
   "EAC|20|208|5|unknown form type|Case Was Rejected Because I Did Not Sign My Form": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|208|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 52,
     "18430": 52,
     "18431": 52,
     "18432": 52,
+    "18433": 49,
   },
   "EAC|20|208|5|unknown form type|Case Was Transferred And A New Office Has Jurisdiction": {
     "18429": 13,
     "18430": 13,
     "18431": 13,
     "18432": 13,
+    "18433": 10,
   },
   "EAC|20|208|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 12,
     "18430": 12,
     "18431": 12,
     "18432": 12,
+    "18433": 12,
   },
   "EAC|20|208|5|unknown form type|Correspondence Was Received And USCIS Is Reviewing It": {
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|208|5|unknown form type|Date of Birth Was Updated": {
     "18429": 1,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|208|5|unknown form type|Fees Were Waived": {
     "18415": 14,
@@ -41318,12 +41568,14 @@
     "18430": 280,
     "18431": 278,
     "18432": 278,
+    "18433": 249,
   },
   "EAC|20|208|5|unknown form type|Name Was Updated": {
     "18429": 12,
     "18430": 14,
     "18431": 15,
     "18432": 15,
+    "18433": 14,
   },
   "EAC|20|208|5|unknown form type|New Card Is Being Produced": {
     "18425": 1,
@@ -41345,12 +41597,14 @@
     "18430": 80,
     "18431": 80,
     "18432": 80,
+    "18433": 68,
   },
   "EAC|20|208|5|unknown form type|Request for Additional Evidence Was Sent": {
     "18429": 10,
     "18430": 10,
     "18431": 12,
     "18432": 12,
+    "18433": 10,
   },
   "EAC|20|209|5|I-129|Case Transferred To Another Office": {
     "18422": 5,
@@ -41372,6 +41626,7 @@
     "18430": 62,
     "18431": 103,
     "18432": 150,
+    "18433": 136,
   },
   "EAC|20|209|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18424": 3,
@@ -41381,6 +41636,7 @@
     "18430": 8,
     "18431": 8,
     "18432": 8,
+    "18433": 8,
   },
   "EAC|20|209|5|I-129|Case Was Received": {
     "18415": 549,
@@ -41399,6 +41655,7 @@
     "18430": 438,
     "18431": 422,
     "18432": 409,
+    "18433": 358,
   },
   "EAC|20|209|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18421": 2,
@@ -41411,6 +41668,7 @@
     "18430": 35,
     "18431": 34,
     "18432": 40,
+    "18433": 49,
   },
   "EAC|20|209|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18415": 438,
@@ -41429,6 +41687,7 @@
     "18430": 415,
     "18431": 392,
     "18432": 349,
+    "18433": 315,
   },
   "EAC|20|209|5|I-129|Date of Birth Was Updated": {
     "18423": 1,
@@ -41439,6 +41698,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|209|5|I-129|Name Was Updated": {
     "18415": 5,
@@ -41457,6 +41717,7 @@
     "18430": 14,
     "18431": 10,
     "18432": 6,
+    "18433": 6,
   },
   "EAC|20|209|5|I-129|Request For Premium Processing Services Was Received": {
     "18421": 1,
@@ -41478,11 +41739,13 @@
     "18430": 16,
     "18431": 16,
     "18432": 23,
+    "18433": 21,
   },
   "EAC|20|209|5|I-129|Response To USCIS&apos; Request For Evidence Was Received": {
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|209|5|I-131|Case Was Approved": {
     "18428": 1,
@@ -41922,29 +42185,34 @@
     "18430": 39,
     "18431": 39,
     "18432": 39,
+    "18433": 34,
   },
   "EAC|20|209|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 4,
     "18430": 4,
     "18431": 4,
     "18432": 4,
+    "18433": 3,
   },
   "EAC|20|209|5|unknown form type|Case Rejected For Incorrect Fee And Form Not Signed": {
     "18429": 4,
     "18430": 4,
     "18431": 4,
     "18432": 4,
+    "18433": 3,
   },
   "EAC|20|209|5|unknown form type|Case Transferred To Another Office": {
     "18429": 1,
     "18430": 1,
     "18432": 5,
+    "18433": 5,
   },
   "EAC|20|209|5|unknown form type|Case Was Approved": {
     "18429": 1,
     "18430": 3,
     "18431": 5,
     "18432": 5,
+    "18433": 3,
   },
   "EAC|20|209|5|unknown form type|Case Was Received": {
     "18415": 17,
@@ -41963,6 +42231,7 @@
     "18430": 561,
     "18431": 560,
     "18432": 552,
+    "18433": 502,
   },
   "EAC|20|209|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18415": 1,
@@ -41981,16 +42250,19 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|209|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 39,
     "18430": 39,
     "18431": 39,
     "18432": 39,
+    "18433": 35,
   },
   "EAC|20|209|5|unknown form type|Case Was Sent To The Administrative Appeals Office for Review": {
     "18431": 1,
     "18432": 4,
+    "18433": 3,
   },
   "EAC|20|209|5|unknown form type|Case Was Transferred And A New Office Has Jurisdiction": {
     "18423": 2,
@@ -42001,18 +42273,21 @@
     "18430": 19,
     "18431": 20,
     "18432": 21,
+    "18433": 20,
   },
   "EAC|20|209|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 25,
     "18430": 21,
     "18431": 21,
     "18432": 21,
+    "18433": 16,
   },
   "EAC|20|209|5|unknown form type|Date of Birth Was Updated": {
     "18429": 4,
     "18430": 4,
     "18431": 4,
     "18432": 4,
+    "18433": 3,
   },
   "EAC|20|209|5|unknown form type|Fees Were Waived": {
     "18415": 6,
@@ -42031,18 +42306,21 @@
     "18430": 317,
     "18431": 312,
     "18432": 311,
+    "18433": 274,
   },
   "EAC|20|209|5|unknown form type|Name Was Updated": {
     "18429": 4,
     "18430": 4,
     "18431": 4,
     "18432": 4,
+    "18433": 4,
   },
   "EAC|20|209|5|unknown form type|Petition/Application Was Rejected For Insufficient Funds": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|209|5|unknown form type|Request Was Processed": {
     "18415": 92,
@@ -42061,12 +42339,14 @@
     "18430": 92,
     "18431": 92,
     "18432": 92,
+    "18433": 84,
   },
   "EAC|20|209|5|unknown form type|Request for Additional Evidence Was Sent": {
     "18429": 6,
     "18430": 6,
     "18431": 11,
     "18432": 11,
+    "18433": 10,
   },
   "EAC|20|210|5|I-129|Case Transferred To Another Office": {
     "18415": 1,
@@ -42085,6 +42365,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|210|5|I-129|Case Was Approved": {
     "18417": 1,
@@ -42101,6 +42382,7 @@
     "18430": 24,
     "18431": 35,
     "18432": 64,
+    "18433": 60,
   },
   "EAC|20|210|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18425": 1,
@@ -42109,6 +42391,7 @@
     "18430": 10,
     "18431": 14,
     "18432": 12,
+    "18433": 11,
   },
   "EAC|20|210|5|I-129|Case Was Received": {
     "18415": 777,
@@ -42127,6 +42410,7 @@
     "18430": 589,
     "18431": 577,
     "18432": 560,
+    "18433": 491,
   },
   "EAC|20|210|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18422": 10,
@@ -42138,6 +42422,7 @@
     "18430": 46,
     "18431": 45,
     "18432": 50,
+    "18433": 47,
   },
   "EAC|20|210|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18415": 176,
@@ -42156,6 +42441,7 @@
     "18430": 271,
     "18431": 268,
     "18432": 253,
+    "18433": 230,
   },
   "EAC|20|210|5|I-129|Date of Birth Was Updated": {
     "18424": 1,
@@ -42164,6 +42450,7 @@
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|210|5|I-129|Expedite Request Denied": {
     "18423": 1,
@@ -42174,6 +42461,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|210|5|I-129|Name Was Updated": {
     "18415": 11,
@@ -42192,6 +42480,7 @@
     "18430": 9,
     "18431": 10,
     "18432": 7,
+    "18433": 6,
   },
   "EAC|20|210|5|I-129|Request For Premium Processing Services Was Received": {
     "18421": 3,
@@ -42215,6 +42504,7 @@
     "18430": 8,
     "18431": 9,
     "18432": 15,
+    "18433": 12,
   },
   "EAC|20|210|5|I-131|Case Was Received": {
     "18415": 7,
@@ -42631,18 +42921,21 @@
     "18430": 13,
     "18431": 13,
     "18432": 13,
+    "18433": 12,
   },
   "EAC|20|210|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 2,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|210|5|unknown form type|Case Rejected For Form Not Signed And Incorrect Form Version": {
     "18429": 2,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|210|5|unknown form type|Case Transferred To Another Office": {
     "18429": 1,
@@ -42652,6 +42945,7 @@
     "18430": 1,
     "18431": 4,
     "18432": 4,
+    "18433": 3,
   },
   "EAC|20|210|5|unknown form type|Case Was Received": {
     "18415": 14,
@@ -42670,6 +42964,7 @@
     "18430": 582,
     "18431": 580,
     "18432": 579,
+    "18433": 509,
   },
   "EAC|20|210|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18415": 6,
@@ -42688,42 +42983,49 @@
     "18430": 6,
     "18431": 6,
     "18432": 6,
+    "18433": 6,
   },
   "EAC|20|210|5|unknown form type|Case Was Rejected Because I Did Not Sign My Form": {
     "18429": 4,
     "18430": 4,
     "18431": 4,
     "18432": 4,
+    "18433": 4,
   },
   "EAC|20|210|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 51,
     "18430": 51,
     "18431": 51,
     "18432": 51,
+    "18433": 47,
   },
   "EAC|20|210|5|unknown form type|Case Was Transferred And A New Office Has Jurisdiction": {
     "18429": 13,
     "18430": 13,
     "18431": 14,
     "18432": 14,
+    "18433": 13,
   },
   "EAC|20|210|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 14,
     "18430": 10,
     "18431": 10,
     "18432": 10,
+    "18433": 8,
   },
   "EAC|20|210|5|unknown form type|Date of Birth Was Updated": {
     "18429": 2,
     "18430": 2,
     "18431": 3,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|210|5|unknown form type|Expedite Request Denied": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|210|5|unknown form type|Fees Were Waived": {
     "18415": 5,
@@ -42742,6 +43044,7 @@
     "18430": 284,
     "18431": 284,
     "18432": 282,
+    "18433": 255,
   },
   "EAC|20|210|5|unknown form type|Form G-28 Was Rejected Because It Was Improperly Filed": {
     "18415": 1,
@@ -42760,18 +43063,21 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|210|5|unknown form type|Name Was Updated": {
     "18429": 7,
     "18430": 7,
     "18431": 8,
     "18432": 9,
+    "18433": 5,
   },
   "EAC|20|210|5|unknown form type|Petition/Application Was Rejected For Insufficient Funds": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|210|5|unknown form type|Request Was Processed": {
     "18415": 76,
@@ -42790,6 +43096,7 @@
     "18430": 76,
     "18431": 76,
     "18432": 76,
+    "18433": 66,
   },
   "EAC|20|210|5|unknown form type|Request Was Rejected": {
     "18415": 4,
@@ -42808,18 +43115,21 @@
     "18430": 4,
     "18431": 4,
     "18432": 4,
+    "18433": 4,
   },
   "EAC|20|210|5|unknown form type|Request for Additional Evidence Was Sent": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|211|5|I-129|Case Was Approved": {
     "18429": 1,
     "18430": 1,
     "18431": 6,
     "18432": 12,
+    "18433": 11,
   },
   "EAC|20|211|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18430": 1,
@@ -42843,6 +43153,7 @@
     "18430": 169,
     "18431": 167,
     "18432": 160,
+    "18433": 147,
   },
   "EAC|20|211|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18422": 3,
@@ -42854,6 +43165,7 @@
     "18430": 19,
     "18431": 16,
     "18432": 15,
+    "18433": 19,
   },
   "EAC|20|211|5|I-129|Date of Birth Was Updated": {
     "18423": 1,
@@ -42864,6 +43176,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|211|5|I-129|Name Was Updated": {
     "18415": 3,
@@ -42882,6 +43195,7 @@
     "18430": 3,
     "18431": 4,
     "18432": 4,
+    "18433": 3,
   },
   "EAC|20|211|5|I-129|Petition/Application Was Rejected For Insufficient Funds": {
     "18424": 1,
@@ -42891,6 +43205,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|211|5|I-129|Request For Premium Processing Services Was Received": {
     "18421": 1,
@@ -42903,9 +43218,11 @@
     "18430": 2,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|211|5|I-129|Request for Additional Evidence Was Sent": {
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|211|5|I-131|Fees Were Waived": {
     "18415": 13,
@@ -43112,42 +43429,49 @@
     "18430": 17,
     "18431": 17,
     "18432": 17,
+    "18433": 14,
   },
   "EAC|20|211|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|211|5|unknown form type|Case Was Received": {
     "18429": 121,
     "18430": 121,
     "18431": 121,
     "18432": 121,
+    "18433": 114,
   },
   "EAC|20|211|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 19,
     "18430": 19,
     "18431": 19,
     "18432": 19,
+    "18433": 16,
   },
   "EAC|20|211|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|211|5|unknown form type|Date of Birth Was Updated": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|211|5|unknown form type|Fees Were Waived": {
     "18429": 69,
     "18430": 69,
     "18431": 69,
     "18432": 69,
+    "18433": 57,
   },
   "EAC|20|212|5|I-102|Fees Were Waived": {
     "18415": 2,
@@ -43172,6 +43496,7 @@
     "18430": 10,
     "18431": 17,
     "18432": 25,
+    "18433": 21,
   },
   "EAC|20|212|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18425": 1,
@@ -43180,6 +43505,7 @@
     "18430": 7,
     "18431": 10,
     "18432": 8,
+    "18433": 9,
   },
   "EAC|20|212|5|I-129|Case Was Received": {
     "18415": 1244,
@@ -43198,6 +43524,7 @@
     "18430": 1145,
     "18431": 1135,
     "18432": 1117,
+    "18433": 953,
   },
   "EAC|20|212|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18422": 1,
@@ -43209,6 +43536,7 @@
     "18430": 60,
     "18431": 69,
     "18432": 77,
+    "18433": 76,
   },
   "EAC|20|212|5|I-129|Name Was Updated": {
     "18415": 14,
@@ -43227,6 +43555,7 @@
     "18430": 16,
     "18431": 16,
     "18432": 17,
+    "18433": 15,
   },
   "EAC|20|212|5|I-129|Petition/Application Was Rejected For Insufficient Funds": {
     "18424": 1,
@@ -43236,6 +43565,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|212|5|I-129|Request For Premium Processing Services Was Received": {
     "18422": 2,
@@ -43258,6 +43588,10 @@
     "18430": 6,
     "18431": 8,
     "18432": 11,
+    "18433": 6,
+  },
+  "EAC|20|212|5|I-129|Response To USCIS&apos; Request For Evidence Was Received": {
+    "18433": 1,
   },
   "EAC|20|212|5|I-131|Case Was Updated To Show Fingerprints Were Taken": {
     "18428": 3,
@@ -43554,17 +43888,20 @@
     "18430": 11,
     "18431": 11,
     "18432": 11,
+    "18433": 11,
   },
   "EAC|20|212|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 3,
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|212|5|unknown form type|Case Was Approved": {
     "18430": 2,
     "18431": 3,
     "18432": 3,
+    "18433": 2,
   },
   "EAC|20|212|5|unknown form type|Case Was Received": {
     "18415": 13,
@@ -43583,6 +43920,7 @@
     "18430": 836,
     "18431": 835,
     "18432": 835,
+    "18433": 725,
   },
   "EAC|20|212|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18415": 15,
@@ -43592,30 +43930,35 @@
     "18430": 6,
     "18431": 6,
     "18432": 6,
+    "18433": 4,
   },
   "EAC|20|212|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 21,
     "18430": 21,
     "18431": 21,
     "18432": 21,
+    "18433": 20,
   },
   "EAC|20|212|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 11,
     "18430": 8,
     "18431": 8,
     "18432": 8,
+    "18433": 6,
   },
   "EAC|20|212|5|unknown form type|Fees Were Waived": {
     "18429": 189,
     "18430": 189,
     "18431": 189,
     "18432": 189,
+    "18433": 173,
   },
   "EAC|20|212|5|unknown form type|Name Was Updated": {
     "18429": 6,
     "18430": 6,
     "18431": 7,
     "18432": 7,
+    "18433": 7,
   },
   "EAC|20|212|5|unknown form type|Request Was Processed": {
     "18415": 18,
@@ -43634,6 +43977,7 @@
     "18430": 18,
     "18431": 18,
     "18432": 18,
+    "18433": 16,
   },
   "EAC|20|213|5|I-129|Case Transferred To Another Office": {
     "18422": 8,
@@ -43650,6 +43994,7 @@
     "18430": 24,
     "18431": 36,
     "18432": 48,
+    "18433": 47,
   },
   "EAC|20|213|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18428": 1,
@@ -43657,6 +44002,7 @@
     "18430": 2,
     "18431": 3,
     "18432": 3,
+    "18433": 6,
   },
   "EAC|20|213|5|I-129|Case Was Received": {
     "18415": 797,
@@ -43675,6 +44021,7 @@
     "18430": 1179,
     "18431": 1161,
     "18432": 1121,
+    "18433": 1003,
   },
   "EAC|20|213|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18422": 4,
@@ -43686,6 +44033,7 @@
     "18430": 57,
     "18431": 65,
     "18432": 88,
+    "18433": 88,
   },
   "EAC|20|213|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18423": 8,
@@ -43696,6 +44044,7 @@
     "18430": 8,
     "18431": 12,
     "18432": 12,
+    "18433": 11,
   },
   "EAC|20|213|5|I-129|Name Was Updated": {
     "18415": 9,
@@ -43714,6 +44063,7 @@
     "18430": 14,
     "18431": 14,
     "18432": 14,
+    "18433": 12,
   },
   "EAC|20|213|5|I-129|Petition/Application Was Rejected For Insufficient Funds": {
     "18424": 3,
@@ -43723,6 +44073,7 @@
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|213|5|I-129|Request For Premium Processing Services Was Received": {
     "18422": 4,
@@ -43740,6 +44091,7 @@
     "18430": 5,
     "18431": 9,
     "18432": 15,
+    "18433": 15,
   },
   "EAC|20|213|5|I-131|Fees Were Waived": {
     "18415": 6,
@@ -44024,21 +44376,25 @@
     "18430": 28,
     "18431": 28,
     "18432": 28,
+    "18433": 27,
   },
   "EAC|20|213|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|213|5|unknown form type|Case Was Approved": {
     "18432": 12,
+    "18433": 16,
   },
   "EAC|20|213|5|unknown form type|Case Was Received": {
     "18429": 715,
     "18430": 715,
     "18431": 710,
     "18432": 706,
+    "18433": 616,
   },
   "EAC|20|213|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18415": 33,
@@ -44057,48 +44413,56 @@
     "18430": 13,
     "18431": 13,
     "18432": 13,
+    "18433": 12,
   },
   "EAC|20|213|5|unknown form type|Case Was Rejected Because I Did Not Sign My Form": {
     "18429": 4,
     "18430": 4,
     "18431": 4,
     "18432": 4,
+    "18433": 3,
   },
   "EAC|20|213|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 20,
     "18430": 20,
     "18431": 20,
     "18432": 20,
+    "18433": 16,
   },
   "EAC|20|213|5|unknown form type|Case Was Transferred And A New Office Has Jurisdiction": {
     "18429": 8,
     "18430": 8,
     "18431": 8,
     "18432": 8,
+    "18433": 8,
   },
   "EAC|20|213|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 8,
     "18430": 8,
     "18431": 18,
     "18432": 8,
+    "18433": 8,
   },
   "EAC|20|213|5|unknown form type|Date of Birth Was Updated": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|213|5|unknown form type|Fees Were Waived": {
     "18429": 220,
     "18430": 220,
     "18431": 214,
     "18432": 212,
+    "18433": 193,
   },
   "EAC|20|213|5|unknown form type|Name Was Updated": {
     "18429": 4,
     "18430": 4,
     "18431": 4,
     "18432": 7,
+    "18433": 5,
   },
   "EAC|20|213|5|unknown form type|New Card Is Being Produced": {
     "18431": 1,
@@ -44120,6 +44484,7 @@
     "18430": 50,
     "18431": 50,
     "18432": 50,
+    "18433": 46,
   },
   "EAC|20|213|5|unknown form type|Request for Additional Evidence Was Sent": {
     "18432": 1,
@@ -44135,6 +44500,7 @@
     "18430": 7,
     "18431": 15,
     "18432": 37,
+    "18433": 33,
   },
   "EAC|20|214|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18425": 1,
@@ -44143,6 +44509,7 @@
     "18430": 6,
     "18431": 8,
     "18432": 7,
+    "18433": 8,
   },
   "EAC|20|214|5|I-129|Case Was Received": {
     "18416": 1266,
@@ -44160,6 +44527,7 @@
     "18430": 1180,
     "18431": 1170,
     "18432": 1151,
+    "18433": 1029,
   },
   "EAC|20|214|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18422": 7,
@@ -44171,6 +44539,7 @@
     "18430": 73,
     "18431": 75,
     "18432": 87,
+    "18433": 84,
   },
   "EAC|20|214|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18423": 118,
@@ -44181,6 +44550,7 @@
     "18430": 118,
     "18431": 119,
     "18432": 105,
+    "18433": 88,
   },
   "EAC|20|214|5|I-129|Date of Birth Was Updated": {
     "18422": 1,
@@ -44202,6 +44572,7 @@
     "18430": 14,
     "18431": 14,
     "18432": 14,
+    "18433": 13,
   },
   "EAC|20|214|5|I-129|Petition/Application Was Rejected For Insufficient Funds": {
     "18424": 2,
@@ -44211,6 +44582,7 @@
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|214|5|I-129|Premium Processing Case is Eligible for Pre-Certification": {
     "18416": 1,
@@ -44228,6 +44600,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|214|5|I-129|Request For Premium Processing Services Was Received": {
     "18422": 1,
@@ -44246,12 +44619,14 @@
     "18430": 5,
     "18431": 6,
     "18432": 8,
+    "18433": 8,
   },
   "EAC|20|214|5|I-129|Response To USCIS&apos; Request For Evidence Was Received": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|214|5|I-129|Resubmitted Fee Was Not Accepted": {
     "18424": 1,
@@ -44261,6 +44636,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|214|5|I-131|Case Was Received": {
     "18416": 3,
@@ -44555,12 +44931,14 @@
     "18430": 20,
     "18431": 20,
     "18432": 20,
+    "18433": 16,
   },
   "EAC|20|214|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 8,
     "18430": 8,
     "18431": 8,
     "18432": 8,
+    "18433": 8,
   },
   "EAC|20|214|5|unknown form type|Case Was Received": {
     "18416": 1,
@@ -44578,6 +44956,7 @@
     "18430": 888,
     "18431": 887,
     "18432": 882,
+    "18433": 805,
   },
   "EAC|20|214|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18416": 78,
@@ -44595,27 +44974,32 @@
     "18430": 22,
     "18431": 22,
     "18432": 22,
+    "18433": 22,
   },
   "EAC|20|214|5|unknown form type|Case Was Rejected Because I Did Not Sign My Form": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|214|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 49,
     "18430": 49,
     "18431": 49,
     "18432": 49,
+    "18433": 41,
   },
   "EAC|20|214|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 15,
     "18430": 15,
     "18431": 15,
     "18432": 15,
+    "18433": 13,
   },
   "EAC|20|214|5|unknown form type|Date of Birth Was Updated": {
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|214|5|unknown form type|Fees Were Waived": {
     "18416": 1,
@@ -44633,12 +45017,14 @@
     "18430": 145,
     "18431": 145,
     "18432": 145,
+    "18433": 134,
   },
   "EAC|20|214|5|unknown form type|Name Was Updated": {
     "18429": 10,
     "18430": 10,
     "18431": 11,
     "18432": 15,
+    "18433": 15,
   },
   "EAC|20|214|5|unknown form type|Request Was Processed": {
     "18416": 7,
@@ -44656,6 +45042,7 @@
     "18430": 67,
     "18431": 67,
     "18432": 67,
+    "18433": 55,
   },
   "EAC|20|214|5|unknown form type|Request Was Rejected": {
     "18416": 3,
@@ -44673,6 +45060,7 @@
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|215|5|I-129|Case Transferred To Another Office": {
     "18422": 528,
@@ -44686,6 +45074,7 @@
     "18430": 2,
     "18431": 4,
     "18432": 14,
+    "18433": 12,
   },
   "EAC|20|215|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18428": 1,
@@ -44693,6 +45082,7 @@
     "18430": 1,
     "18431": 2,
     "18432": 4,
+    "18433": 3,
   },
   "EAC|20|215|5|I-129|Case Was Received": {
     "18417": 822,
@@ -44709,6 +45099,7 @@
     "18430": 789,
     "18431": 781,
     "18432": 763,
+    "18433": 660,
   },
   "EAC|20|215|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18423": 1,
@@ -44719,6 +45110,7 @@
     "18430": 62,
     "18431": 74,
     "18432": 84,
+    "18433": 94,
   },
   "EAC|20|215|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18423": 529,
@@ -44729,6 +45121,7 @@
     "18430": 529,
     "18431": 530,
     "18432": 518,
+    "18433": 469,
   },
   "EAC|20|215|5|I-129|Date of Birth Was Updated": {
     "18417": 1,
@@ -44745,6 +45138,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|215|5|I-129|Name Was Updated": {
     "18417": 22,
@@ -44761,6 +45155,7 @@
     "18430": 19,
     "18431": 19,
     "18432": 19,
+    "18433": 16,
   },
   "EAC|20|215|5|I-129|Request For Premium Processing Services Was Received": {
     "18423": 1,
@@ -44775,6 +45170,7 @@
   "EAC|20|215|5|I-129|Request for Additional Evidence Was Sent": {
     "18431": 1,
     "18432": 5,
+    "18433": 5,
   },
   "EAC|20|215|5|I-131|Case Was Received": {
     "18417": 7,
@@ -45110,6 +45506,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|215|5|unknown form type|Card Was Picked Up By The United States Postal Service": {
     "18425": 1,
@@ -45119,18 +45516,21 @@
     "18430": 29,
     "18431": 29,
     "18432": 29,
+    "18433": 26,
   },
   "EAC|20|215|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 6,
     "18430": 6,
     "18431": 6,
     "18432": 6,
+    "18433": 6,
   },
   "EAC|20|215|5|unknown form type|Case Was Approved": {
     "18429": 104,
     "18430": 105,
     "18431": 107,
     "18432": 113,
+    "18433": 107,
   },
   "EAC|20|215|5|unknown form type|Case Was Received": {
     "18417": 20,
@@ -45147,12 +45547,14 @@
     "18430": 870,
     "18431": 870,
     "18432": 870,
+    "18433": 780,
   },
   "EAC|20|215|5|unknown form type|Case Was Received At Another USCIS Office": {
     "18429": 20,
     "18430": 19,
     "18431": 17,
     "18432": 11,
+    "18433": 10,
   },
   "EAC|20|215|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18417": 47,
@@ -45169,42 +45571,49 @@
     "18430": 8,
     "18431": 8,
     "18432": 8,
+    "18433": 7,
   },
   "EAC|20|215|5|unknown form type|Case Was Rejected Because I Did Not Sign My Form": {
     "18429": 5,
     "18430": 5,
     "18431": 5,
     "18432": 5,
+    "18433": 5,
   },
   "EAC|20|215|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 53,
     "18430": 53,
     "18431": 53,
     "18432": 53,
+    "18433": 42,
   },
   "EAC|20|215|5|unknown form type|Case Was Transferred And A New Office Has Jurisdiction": {
     "18429": 20,
     "18430": 20,
     "18431": 20,
     "18432": 20,
+    "18433": 20,
   },
   "EAC|20|215|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 15,
     "18430": 15,
     "18431": 15,
     "18432": 15,
+    "18433": 15,
   },
   "EAC|20|215|5|unknown form type|Fees Were Waived": {
     "18429": 178,
     "18430": 179,
     "18431": 179,
     "18432": 179,
+    "18433": 160,
   },
   "EAC|20|215|5|unknown form type|Name Was Updated": {
     "18429": 10,
     "18430": 10,
     "18431": 10,
     "18432": 10,
+    "18433": 10,
   },
   "EAC|20|215|5|unknown form type|New Card Is Being Produced": {
     "18421": 1,
@@ -45224,6 +45633,7 @@
     "18430": 80,
     "18431": 80,
     "18432": 80,
+    "18433": 71,
   },
   "EAC|20|215|5|unknown form type|Request Was Rejected": {
     "18417": 2,
@@ -45240,6 +45650,7 @@
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|216|5|I-102|Case Was Approved": {
     "18423": 3,
@@ -45266,6 +45677,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|216|5|I-129|Case Was Received": {
     "18418": 165,
@@ -45281,6 +45693,7 @@
     "18430": 557,
     "18431": 551,
     "18432": 537,
+    "18433": 476,
   },
   "EAC|20|216|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18428": 2,
@@ -45288,6 +45701,7 @@
     "18430": 18,
     "18431": 27,
     "18432": 36,
+    "18433": 42,
   },
   "EAC|20|216|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18423": 240,
@@ -45298,10 +45712,12 @@
     "18430": 240,
     "18431": 240,
     "18432": 240,
+    "18433": 220,
   },
   "EAC|20|216|5|I-129|Expedite Request Denied": {
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|216|5|I-129|Name Was Updated": {
     "18418": 2,
@@ -45317,6 +45733,7 @@
     "18430": 4,
     "18431": 5,
     "18432": 6,
+    "18433": 6,
   },
   "EAC|20|216|5|I-129|Request For Premium Processing Services Was Received": {
     "18428": 4,
@@ -45326,6 +45743,7 @@
   },
   "EAC|20|216|5|I-129|Request for Additional Evidence Was Sent": {
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|216|5|I-130|Fees Were Waived": {
     "18418": 1,
@@ -45576,26 +45994,35 @@
     "18425": 1,
     "18428": 1,
   },
+  "EAC|20|216|5|unknown form type|Card Was Delivered To Me By The Post Office": {
+    "18433": 1,
+  },
   "EAC|20|216|5|unknown form type|Card Was Mailed To Me": {
     "18432": 3,
+  },
+  "EAC|20|216|5|unknown form type|Card Was Picked Up By The United States Postal Service": {
+    "18433": 2,
   },
   "EAC|20|216|5|unknown form type|Case Rejected Because I Sent An Incorrect Fee": {
     "18429": 31,
     "18430": 31,
     "18431": 31,
     "18432": 31,
+    "18433": 30,
   },
   "EAC|20|216|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 6,
     "18430": 6,
     "18431": 6,
     "18432": 6,
+    "18433": 5,
   },
   "EAC|20|216|5|unknown form type|Case Was Approved": {
     "18429": 10,
     "18430": 10,
     "18431": 10,
     "18432": 7,
+    "18433": 4,
   },
   "EAC|20|216|5|unknown form type|Case Was Received": {
     "18418": 5,
@@ -45611,6 +46038,7 @@
     "18430": 466,
     "18431": 466,
     "18432": 466,
+    "18433": 423,
   },
   "EAC|20|216|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18418": 30,
@@ -45626,30 +46054,35 @@
     "18430": 12,
     "18431": 12,
     "18432": 12,
+    "18433": 11,
   },
   "EAC|20|216|5|unknown form type|Case Was Rejected Because I Did Not Sign My Form": {
     "18429": 3,
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 2,
   },
   "EAC|20|216|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 43,
     "18430": 43,
     "18431": 43,
     "18432": 43,
+    "18433": 36,
   },
   "EAC|20|216|5|unknown form type|Case Was Transferred And A New Office Has Jurisdiction": {
     "18429": 6,
     "18430": 6,
     "18431": 6,
     "18432": 6,
+    "18433": 5,
   },
   "EAC|20|216|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 12,
     "18430": 12,
     "18431": 12,
     "18432": 12,
+    "18433": 9,
   },
   "EAC|20|216|5|unknown form type|Fees Were Waived": {
     "18418": 1,
@@ -45665,12 +46098,14 @@
     "18430": 140,
     "18431": 140,
     "18432": 140,
+    "18433": 128,
   },
   "EAC|20|216|5|unknown form type|Name Was Updated": {
     "18429": 3,
     "18430": 4,
     "18431": 4,
     "18432": 4,
+    "18433": 4,
   },
   "EAC|20|216|5|unknown form type|Request Was Processed": {
     "18418": 5,
@@ -45686,6 +46121,7 @@
     "18430": 24,
     "18431": 24,
     "18432": 24,
+    "18433": 24,
   },
   "EAC|20|217|5|I-539|Case Rejected Because I Sent An Incorrect Fee": {
     "18419": 7,
@@ -45772,30 +46208,35 @@
     "18430": 16,
     "18431": 16,
     "18432": 16,
+    "18433": 15,
   },
   "EAC|20|217|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 5,
     "18430": 5,
     "18431": 5,
     "18432": 5,
+    "18433": 4,
   },
   "EAC|20|217|5|unknown form type|Case Was Received": {
     "18429": 85,
     "18430": 85,
     "18431": 85,
     "18432": 85,
+    "18433": 73,
   },
   "EAC|20|217|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 37,
     "18430": 37,
     "18431": 37,
     "18432": 37,
+    "18433": 33,
   },
   "EAC|20|217|5|unknown form type|Name Was Updated": {
     "18429": 2,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|218|5|I-751|Case Was Received": {
     "18421": 4,
@@ -45810,6 +46251,7 @@
     "18430": 4,
     "18431": 4,
     "18432": 4,
+    "18433": 3,
   },
   "EAC|20|219|5|I-129|Case Transferred To Another Office": {
     "18429": 3,
@@ -45817,6 +46259,7 @@
   },
   "EAC|20|219|5|I-129|Case Was Approved": {
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|219|5|I-129|Case Was Received": {
     "18421": 1063,
@@ -45829,22 +46272,26 @@
     "18430": 1351,
     "18431": 1345,
     "18432": 1320,
+    "18433": 1170,
   },
   "EAC|20|219|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18429": 1,
     "18430": 4,
     "18431": 11,
     "18432": 32,
+    "18433": 45,
   },
   "EAC|20|219|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18431": 3,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|219|5|I-129|Date of Birth Was Updated": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|219|5|I-129|Name Was Updated": {
     "18421": 29,
@@ -45857,15 +46304,18 @@
     "18430": 29,
     "18431": 29,
     "18432": 30,
+    "18433": 26,
   },
   "EAC|20|219|5|I-129|Request For Premium Processing Services Was Received": {
     "18430": 6,
     "18431": 4,
     "18432": 6,
+    "18433": 1,
   },
   "EAC|20|219|5|I-129|Request for Additional Evidence Was Sent": {
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|219|5|I-131|Fees Were Waived": {
     "18421": 27,
@@ -46018,18 +46468,21 @@
     "18430": 24,
     "18431": 24,
     "18432": 24,
+    "18433": 22,
   },
   "EAC|20|219|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 9,
     "18430": 9,
     "18431": 9,
     "18432": 9,
+    "18433": 7,
   },
   "EAC|20|219|5|unknown form type|Case Was Received": {
     "18429": 671,
     "18430": 670,
     "18431": 670,
     "18432": 670,
+    "18433": 620,
   },
   "EAC|20|219|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18421": 59,
@@ -46040,30 +46493,35 @@
     "18430": 6,
     "18431": 6,
     "18432": 6,
+    "18433": 5,
   },
   "EAC|20|219|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 30,
     "18430": 30,
     "18431": 30,
     "18432": 30,
+    "18433": 28,
   },
   "EAC|20|219|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 13,
     "18430": 13,
     "18431": 13,
     "18432": 13,
+    "18433": 8,
   },
   "EAC|20|219|5|unknown form type|Date of Birth Was Updated": {
     "18429": 2,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 1,
   },
   "EAC|20|219|5|unknown form type|Fees Were Waived": {
     "18429": 111,
     "18430": 111,
     "18431": 111,
     "18432": 111,
+    "18433": 95,
   },
   "EAC|20|219|5|unknown form type|Form G-28 Was Rejected Because It Was Improperly Filed": {
     "18421": 3,
@@ -46076,12 +46534,14 @@
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 2,
   },
   "EAC|20|219|5|unknown form type|Name Was Updated": {
     "18429": 6,
     "18430": 7,
     "18431": 7,
     "18432": 7,
+    "18433": 6,
   },
   "EAC|20|219|5|unknown form type|Request Was Processed": {
     "18422": 3,
@@ -46093,6 +46553,7 @@
     "18430": 61,
     "18431": 61,
     "18432": 61,
+    "18433": 56,
   },
   "EAC|20|220|5|I-129|Case Transferred To Another Office": {
     "18429": 21,
@@ -46100,6 +46561,7 @@
   },
   "EAC|20|220|5|I-129|Case Was Approved": {
     "18432": 4,
+    "18433": 3,
   },
   "EAC|20|220|5|I-129|Case Was Received": {
     "18422": 1509,
@@ -46111,12 +46573,14 @@
     "18430": 1483,
     "18431": 1479,
     "18432": 1464,
+    "18433": 1313,
   },
   "EAC|20|220|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18429": 2,
     "18430": 4,
     "18431": 9,
     "18432": 17,
+    "18433": 23,
   },
   "EAC|20|220|5|I-129|Case Was Rejected Because My Check Or Money Order Is Not Signed": {
     "18422": 1,
@@ -46128,10 +46592,12 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|220|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18431": 21,
     "18432": 21,
+    "18433": 19,
   },
   "EAC|20|220|5|I-129|Date of Birth Was Updated": {
     "18422": 1,
@@ -46143,6 +46609,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|220|5|I-129|Name Was Updated": {
     "18422": 20,
@@ -46154,6 +46621,7 @@
     "18430": 21,
     "18431": 21,
     "18432": 22,
+    "18433": 18,
   },
   "EAC|20|220|5|I-129|Request For Premium Processing Services Was Received": {
     "18429": 1,
@@ -46303,12 +46771,14 @@
     "18430": 26,
     "18431": 26,
     "18432": 26,
+    "18433": 23,
   },
   "EAC|20|220|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 3,
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|220|5|unknown form type|Case Transferred To Another Office": {
     "18429": 2,
@@ -46319,6 +46789,7 @@
     "18430": 615,
     "18431": 615,
     "18432": 614,
+    "18433": 547,
   },
   "EAC|20|220|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18422": 8,
@@ -46328,28 +46799,33 @@
     "18430": 43,
     "18431": 43,
     "18432": 43,
+    "18433": 40,
   },
   "EAC|20|220|5|unknown form type|Case Was Transferred And A New Office Has Jurisdiction": {
     "18431": 2,
     "18432": 2,
+    "18433": 1,
   },
   "EAC|20|220|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 5,
     "18430": 5,
     "18431": 5,
     "18432": 5,
+    "18433": 4,
   },
   "EAC|20|220|5|unknown form type|Fees Were Waived": {
     "18429": 161,
     "18430": 161,
     "18431": 161,
     "18432": 161,
+    "18433": 147,
   },
   "EAC|20|220|5|unknown form type|Name Was Updated": {
     "18429": 3,
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 2,
   },
   "EAC|20|220|5|unknown form type|Request Was Processed": {
     "18423": 8,
@@ -46360,9 +46836,11 @@
     "18430": 8,
     "18431": 8,
     "18432": 8,
+    "18433": 7,
   },
   "EAC|20|220|5|unknown form type|Request for Additional Evidence Was Sent": {
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|221|5|I-129|Case Transferred To Another Office": {
     "18429": 546,
@@ -46372,6 +46850,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|221|5|I-129|Case Was Received": {
     "18423": 1409,
@@ -46382,15 +46861,18 @@
     "18430": 869,
     "18431": 866,
     "18432": 860,
+    "18433": 763,
   },
   "EAC|20|221|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18430": 2,
     "18431": 4,
     "18432": 11,
+    "18433": 21,
   },
   "EAC|20|221|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18431": 546,
     "18432": 546,
+    "18433": 489,
   },
   "EAC|20|221|5|I-129|Name Was Updated": {
     "18423": 13,
@@ -46401,6 +46883,7 @@
     "18430": 6,
     "18431": 5,
     "18432": 5,
+    "18433": 3,
   },
   "EAC|20|221|5|I-129|Request For Premium Processing Services Was Received": {
     "18431": 1,
@@ -46408,6 +46891,7 @@
   "EAC|20|221|5|I-129|Request for Additional Evidence Was Sent": {
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|221|5|I-131|Case Was Received": {
     "18423": 4,
@@ -46538,12 +47022,14 @@
     "18430": 36,
     "18431": 36,
     "18432": 36,
+    "18433": 34,
   },
   "EAC|20|221|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 5,
     "18430": 5,
     "18431": 5,
     "18432": 5,
+    "18433": 5,
   },
   "EAC|20|221|5|unknown form type|Case Transferred To Another Office": {
     "18429": 15,
@@ -46558,6 +47044,7 @@
     "18430": 664,
     "18431": 664,
     "18432": 664,
+    "18433": 603,
   },
   "EAC|20|221|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18423": 9,
@@ -46567,22 +47054,26 @@
     "18430": 20,
     "18431": 20,
     "18432": 20,
+    "18433": 18,
   },
   "EAC|20|221|5|unknown form type|Case Was Transferred And A New Office Has Jurisdiction": {
     "18431": 15,
     "18432": 15,
+    "18433": 14,
   },
   "EAC|20|221|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 16,
     "18430": 16,
     "18431": 16,
     "18432": 16,
+    "18433": 16,
   },
   "EAC|20|221|5|unknown form type|Date of Birth Was Updated": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|221|5|unknown form type|Fees Were Waived": {
     "18423": 2,
@@ -46593,12 +47084,14 @@
     "18430": 161,
     "18431": 161,
     "18432": 161,
+    "18433": 136,
   },
   "EAC|20|221|5|unknown form type|Name Was Updated": {
     "18429": 6,
     "18430": 6,
     "18431": 6,
     "18432": 6,
+    "18433": 6,
   },
   "EAC|20|221|5|unknown form type|Request Was Processed": {
     "18424": 9,
@@ -46608,6 +47101,7 @@
     "18430": 9,
     "18431": 9,
     "18432": 9,
+    "18433": 8,
   },
   "EAC|20|221|5|unknown form type|Request Was Rejected": {
     "18424": 1,
@@ -46617,6 +47111,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|222|5|I-129|Case Transferred To Another Office": {
     "18429": 447,
@@ -46630,15 +47125,18 @@
     "18430": 962,
     "18431": 962,
     "18432": 961,
+    "18433": 866,
   },
   "EAC|20|222|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18430": 2,
     "18431": 2,
     "18432": 3,
+    "18433": 2,
   },
   "EAC|20|222|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18431": 447,
     "18432": 447,
+    "18433": 410,
   },
   "EAC|20|222|5|I-129|Date of Birth Was Updated": {
     "18425": 1,
@@ -46647,6 +47145,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|222|5|I-129|Name Was Updated": {
     "18424": 17,
@@ -46656,6 +47155,7 @@
     "18430": 15,
     "18431": 15,
     "18432": 15,
+    "18433": 14,
   },
   "EAC|20|222|5|I-131|Case Was Received": {
     "18424": 2,
@@ -46764,12 +47264,14 @@
     "18430": 14,
     "18431": 14,
     "18432": 14,
+    "18433": 14,
   },
   "EAC|20|222|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|222|5|unknown form type|Case Transferred To Another Office": {
     "18429": 15,
@@ -46783,6 +47285,7 @@
     "18430": 383,
     "18431": 383,
     "18432": 383,
+    "18433": 347,
   },
   "EAC|20|222|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18424": 22,
@@ -46792,34 +47295,40 @@
     "18430": 47,
     "18431": 47,
     "18432": 47,
+    "18433": 39,
   },
   "EAC|20|222|5|unknown form type|Case Was Transferred And A New Office Has Jurisdiction": {
     "18431": 15,
     "18432": 15,
+    "18433": 15,
   },
   "EAC|20|222|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 23,
     "18430": 23,
     "18431": 23,
     "18432": 23,
+    "18433": 20,
   },
   "EAC|20|222|5|unknown form type|Date of Birth Was Updated": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|222|5|unknown form type|Fees Were Waived": {
     "18429": 175,
     "18430": 175,
     "18431": 175,
     "18432": 175,
+    "18433": 153,
   },
   "EAC|20|222|5|unknown form type|Name Was Updated": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|222|5|unknown form type|Request Was Processed": {
     "18424": 1,
@@ -46829,6 +47338,7 @@
     "18430": 26,
     "18431": 26,
     "18432": 26,
+    "18433": 22,
   },
   "EAC|20|223|5|I-129|Case Transferred To Another Office": {
     "18429": 3,
@@ -46841,13 +47351,16 @@
     "18430": 1164,
     "18431": 1163,
     "18432": 1163,
+    "18433": 1051,
   },
   "EAC|20|223|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|223|5|I-129|Case Was Transferred And A New Office Has Jurisdiction": {
     "18431": 3,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|223|5|I-129|Name Was Updated": {
     "18425": 8,
@@ -46856,6 +47369,7 @@
     "18430": 10,
     "18431": 10,
     "18432": 10,
+    "18433": 8,
   },
   "EAC|20|223|5|I-129|Request For Premium Processing Services Was Received": {
     "18431": 1,
@@ -46957,24 +47471,28 @@
     "18430": 55,
     "18431": 55,
     "18432": 55,
+    "18433": 53,
   },
   "EAC|20|223|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 6,
     "18430": 6,
     "18431": 6,
     "18432": 6,
+    "18433": 6,
   },
   "EAC|20|223|5|unknown form type|Case Was Received": {
     "18429": 452,
     "18430": 452,
     "18431": 452,
     "18432": 452,
+    "18433": 414,
   },
   "EAC|20|223|5|unknown form type|Case Was Received At Another USCIS Office": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|223|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18425": 19,
@@ -46983,30 +47501,35 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|223|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 27,
     "18430": 27,
     "18431": 27,
     "18432": 27,
+    "18433": 25,
   },
   "EAC|20|223|5|unknown form type|Case Was Updated To Show Fingerprints Were Taken": {
     "18429": 6,
     "18430": 6,
     "18431": 6,
     "18432": 6,
+    "18433": 6,
   },
   "EAC|20|223|5|unknown form type|Fees Were Waived": {
     "18429": 126,
     "18430": 126,
     "18431": 126,
     "18432": 126,
+    "18433": 110,
   },
   "EAC|20|223|5|unknown form type|Name Was Updated": {
     "18429": 5,
     "18430": 5,
     "18431": 5,
     "18432": 5,
+    "18433": 5,
   },
   "EAC|20|223|5|unknown form type|Request Was Processed": {
     "18425": 9,
@@ -47015,6 +47538,7 @@
     "18430": 28,
     "18431": 28,
     "18432": 28,
+    "18433": 25,
   },
   "EAC|20|224|5|I-539|Case Rejected Because I Sent An Incorrect Fee": {
     "18428": 3,
@@ -47042,24 +47566,28 @@
     "18430": 22,
     "18431": 22,
     "18432": 22,
+    "18433": 20,
   },
   "EAC|20|224|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 6,
     "18430": 6,
     "18431": 6,
     "18432": 6,
+    "18433": 6,
   },
   "EAC|20|224|5|unknown form type|Case Was Received": {
     "18429": 127,
     "18430": 127,
     "18431": 127,
     "18432": 127,
+    "18433": 114,
   },
   "EAC|20|224|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 16,
     "18430": 16,
     "18431": 16,
     "18432": 16,
+    "18433": 14,
   },
   "EAC|20|224|5|unknown form type|Form G-28 Was Rejected Because It Was Improperly Filed": {
     "18428": 1,
@@ -47067,6 +47595,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|225|5|I-539|Case Was Received": {
     "18428": 10,
@@ -47085,27 +47614,32 @@
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 1,
   },
   "EAC|20|225|5|unknown form type|Case Was Received": {
     "18429": 50,
     "18430": 50,
     "18431": 50,
     "18432": 50,
+    "18433": 47,
   },
   "EAC|20|225|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|226|5|I-129|Case Was Approved": {
     "18431": 1,
     "18432": 2,
+    "18433": 1,
   },
   "EAC|20|226|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 1,
   },
   "EAC|20|226|5|I-129|Case Was Received": {
     "18428": 1304,
@@ -47113,12 +47647,14 @@
     "18430": 1294,
     "18431": 1289,
     "18432": 1289,
+    "18433": 1126,
   },
   "EAC|20|226|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18429": 15,
     "18430": 13,
     "18431": 12,
     "18432": 11,
+    "18433": 7,
   },
   "EAC|20|226|5|I-129|Date of Birth Was Updated": {
     "18428": 1,
@@ -47126,6 +47662,7 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|226|5|I-129|Name Was Updated": {
     "18428": 18,
@@ -47133,6 +47670,7 @@
     "18430": 20,
     "18431": 25,
     "18432": 25,
+    "18433": 25,
   },
   "EAC|20|226|5|I-129|Request For Premium Processing Services Was Received": {
     "18428": 4,
@@ -47193,24 +47731,28 @@
     "18430": 6,
     "18431": 6,
     "18432": 6,
+    "18433": 5,
   },
   "EAC|20|226|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18429": 3,
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|226|5|unknown form type|Case Was Approved": {
     "18429": 2,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|226|5|unknown form type|Case Was Received": {
     "18429": 573,
     "18430": 572,
     "18431": 572,
     "18432": 572,
+    "18433": 505,
   },
   "EAC|20|226|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18428": 36,
@@ -47218,30 +47760,35 @@
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|226|5|unknown form type|Case Was Rejected Because I Did Not Sign My Form": {
     "18429": 9,
     "18430": 9,
     "18431": 9,
     "18432": 9,
+    "18433": 7,
   },
   "EAC|20|226|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 37,
     "18430": 37,
     "18431": 37,
     "18432": 37,
+    "18433": 32,
   },
   "EAC|20|226|5|unknown form type|Fees Were Waived": {
     "18429": 81,
     "18430": 81,
     "18431": 81,
     "18432": 81,
+    "18433": 79,
   },
   "EAC|20|226|5|unknown form type|Name Was Updated": {
     "18429": 1,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|226|5|unknown form type|New Card Is Being Produced": {
     "18428": 2,
@@ -47251,34 +47798,40 @@
     "18430": 36,
     "18431": 36,
     "18432": 36,
+    "18433": 34,
   },
   "EAC|20|227|5|I-129|Case Was Approved": {
     "18431": 2,
     "18432": 2,
+    "18433": 1,
   },
   "EAC|20|227|5|I-129|Case Was Received": {
     "18429": 1057,
     "18430": 1523,
     "18431": 1529,
     "18432": 1529,
+    "18433": 1374,
   },
   "EAC|20|227|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18429": 1,
     "18430": 25,
     "18431": 23,
     "18432": 23,
+    "18433": 23,
   },
   "EAC|20|227|5|I-129|Case Was Rejected Because My Check Or Money Order Is Not Signed": {
     "18429": 1,
     "18430": 1,
     "18431": 1,
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|227|5|I-129|Name Was Updated": {
     "18429": 20,
     "18430": 37,
     "18431": 38,
     "18432": 38,
+    "18433": 34,
   },
   "EAC|20|227|5|I-129|Request For Premium Processing Services Was Received": {
     "18429": 1,
@@ -47288,71 +47841,84 @@
     "18430": 20,
     "18431": 20,
     "18432": 20,
+    "18433": 12,
   },
   "EAC|20|227|5|unknown form type|Case Was Received": {
     "18429": 510,
     "18430": 676,
     "18431": 676,
     "18432": 676,
+    "18433": 605,
   },
   "EAC|20|227|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18429": 21,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 1,
   },
   "EAC|20|227|5|unknown form type|Case Was Rejected Because I Did Not Sign My Form": {
     "18429": 3,
     "18430": 3,
     "18431": 3,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|227|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18429": 14,
     "18430": 34,
     "18431": 34,
     "18432": 34,
+    "18433": 30,
   },
   "EAC|20|227|5|unknown form type|Date of Birth Was Updated": {
     "18429": 1,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|227|5|unknown form type|Fees Were Waived": {
     "18429": 146,
     "18430": 148,
     "18431": 149,
     "18432": 149,
+    "18433": 140,
   },
   "EAC|20|227|5|unknown form type|Name Was Updated": {
     "18429": 1,
     "18430": 2,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|227|5|unknown form type|Request Was Processed": {
     "18429": 1,
     "18430": 20,
     "18431": 20,
     "18432": 20,
+    "18433": 17,
   },
   "EAC|20|228|5|I-129|Case Was Approved And My Decision Was Emailed": {
     "18432": 1,
+    "18433": 1,
   },
   "EAC|20|228|5|I-129|Case Was Received": {
     "18430": 766,
     "18431": 1034,
     "18432": 1034,
+    "18433": 937,
   },
   "EAC|20|228|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18431": 14,
     "18432": 13,
+    "18433": 13,
   },
   "EAC|20|228|5|I-129|Name Was Updated": {
     "18430": 11,
     "18431": 22,
     "18432": 22,
+    "18433": 22,
   },
   "EAC|20|228|5|I-129|Request For Premium Processing Services Was Received": {
     "18430": 7,
@@ -47365,25 +47931,30 @@
     "18430": 8,
     "18431": 12,
     "18432": 12,
+    "18433": 11,
   },
   "EAC|20|228|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18430": 6,
     "18431": 6,
     "18432": 6,
+    "18433": 6,
   },
   "EAC|20|228|5|unknown form type|Case Rejected For Incorrect Fee And Form Not Signed": {
     "18430": 5,
     "18431": 5,
     "18432": 5,
+    "18433": 4,
   },
   "EAC|20|228|5|unknown form type|Case Was Received": {
     "18430": 613,
     "18431": 679,
     "18432": 679,
+    "18433": 613,
   },
   "EAC|20|228|5|unknown form type|Case Was Received At Another USCIS Office": {
     "18431": 197,
     "18432": 203,
+    "18433": 182,
   },
   "EAC|20|228|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18430": 15,
@@ -47392,39 +47963,51 @@
     "18430": 36,
     "18431": 50,
     "18432": 50,
+    "18433": 47,
   },
   "EAC|20|228|5|unknown form type|Fees Were Waived": {
     "18430": 208,
     "18431": 208,
     "18432": 208,
+    "18433": 183,
   },
   "EAC|20|228|5|unknown form type|Form G-28 Was Rejected Because It Was Improperly Filed": {
     "18430": 1,
     "18431": 2,
     "18432": 2,
+    "18433": 2,
   },
   "EAC|20|228|5|unknown form type|Name Was Updated": {
     "18430": 3,
     "18431": 4,
     "18432": 4,
+    "18433": 4,
   },
   "EAC|20|228|5|unknown form type|Request Was Processed": {
     "18431": 17,
     "18432": 17,
+    "18433": 17,
   },
   "EAC|20|229|5|I-129|Case Was Approved": {
     "18432": 2,
+    "18433": 1,
+  },
+  "EAC|20|229|5|I-129|Case Was Approved And My Decision Was Emailed": {
+    "18433": 1,
   },
   "EAC|20|229|5|I-129|Case Was Received": {
     "18431": 520,
     "18432": 896,
+    "18433": 799,
   },
   "EAC|20|229|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
     "18432": 19,
+    "18433": 16,
   },
   "EAC|20|229|5|I-129|Name Was Updated": {
     "18431": 15,
     "18432": 28,
+    "18433": 23,
   },
   "EAC|20|229|5|unknown form type|Case Accepted By The USCIS Lockbox": {
     "18431": 80,
@@ -47432,10 +48015,12 @@
   "EAC|20|229|5|unknown form type|Case Rejected Because I Sent An Incorrect Fee": {
     "18431": 15,
     "18432": 19,
+    "18433": 17,
   },
   "EAC|20|229|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18431": 1,
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|229|5|unknown form type|Case Rejected For Form Not Signed And Incorrect Form Version": {
     "18431": 2,
@@ -47444,10 +48029,12 @@
   "EAC|20|229|5|unknown form type|Case Was Received": {
     "18431": 215,
     "18432": 300,
+    "18433": 273,
   },
   "EAC|20|229|5|unknown form type|Case Was Received At Another USCIS Office": {
     "18431": 1,
     "18432": 81,
+    "18433": 76,
   },
   "EAC|20|229|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18431": 4,
@@ -47455,50 +48042,80 @@
   "EAC|20|229|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18431": 22,
     "18432": 25,
+    "18433": 23,
   },
   "EAC|20|229|5|unknown form type|Fees Were Waived": {
     "18431": 141,
     "18432": 141,
+    "18433": 128,
   },
   "EAC|20|229|5|unknown form type|Name Was Updated": {
     "18431": 3,
     "18432": 4,
+    "18433": 3,
   },
   "EAC|20|229|5|unknown form type|Request Was Processed": {
     "18432": 4,
+    "18433": 3,
   },
   "EAC|20|230|5|I-129|Case Was Received": {
     "18432": 529,
+    "18433": 737,
+  },
+  "EAC|20|230|5|I-129|Case Was Received and A Receipt Notice Was Emailed": {
+    "18433": 22,
   },
   "EAC|20|230|5|I-129|Name Was Updated": {
     "18432": 9,
+    "18433": 15,
   },
   "EAC|20|230|5|unknown form type|Case Rejected Because I Sent An Incorrect Fee": {
     "18432": 4,
+    "18433": 7,
   },
   "EAC|20|230|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
     "18432": 3,
+    "18433": 3,
   },
   "EAC|20|230|5|unknown form type|Case Was Received": {
     "18432": 410,
+    "18433": 446,
   },
   "EAC|20|230|5|unknown form type|Case Was Received and A Receipt Notice Was Emailed": {
     "18432": 26,
+    "18433": 29,
   },
   "EAC|20|230|5|unknown form type|Case Was Rejected Because I Did Not Sign My Form": {
     "18432": 2,
+    "18433": 1,
   },
   "EAC|20|230|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
     "18432": 9,
+    "18433": 17,
   },
   "EAC|20|230|5|unknown form type|Fees Were Waived": {
     "18432": 230,
+    "18433": 201,
   },
   "EAC|20|230|5|unknown form type|Name Was Updated": {
     "18432": 1,
+    "18433": 3,
   },
   "EAC|20|230|5|unknown form type|Request Was Processed": {
     "18432": 12,
+    "18433": 11,
+  },
+  "EAC|20|231|5|unknown form type|Case Rejected Because I Sent An Incorrect Fee": {
+    "18433": 26,
+  },
+  "EAC|20|231|5|unknown form type|Case Rejected Because The Version Of The Form I Sent Is No Longer Accepted": {
+    "18433": 1,
+  },
+  "EAC|20|231|5|unknown form type|Case Was Received": {
+    "18433": 37,
+  },
+  "EAC|20|231|5|unknown form type|Case Was Rejected Because It Was Improperly Filed": {
+    "18433": 8,
   },
   "IOE|20|209|5|unknown form type|Card Was Delivered To Me By The Post Office": {
     "18415": 1,
